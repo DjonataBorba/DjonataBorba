@@ -1,7 +1,7 @@
 ### Oii, Meu Nome é Djonata Borba 👋
 
-- 🔭 Eu Trabalho Como Front-End
-- 🌱 Estuando Para Aprimorar Meus Conhecimentos
+- 🔭 Eu Trabalho Como Front-End.
+- 🌱 Estudando Para Aprimorar Meus Conhecimentos.
 
   <a href="https://github.com/DjonataBorba">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DjonataBorba&show_icons=true&theme=dracula"/>
